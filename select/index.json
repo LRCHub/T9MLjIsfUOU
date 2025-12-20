@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "HIGHEST",
+  "base_artist": "OxT",
+  "createdAt": "2025-12-20T14:26:48.227201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highest Building (feat. Oklou)",
+      "artist": "Flume feat. Oklou",
+      "has_synced": true,
+      "path": "select/01_Highest_Building_(feat._Oklou)_Flume_feat._Oklou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Highest Building (feat. Oklou)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/02_Highest_Building_(feat._Oklou)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Highest Mountain",
+      "artist": "DJ Sammy",
+      "has_synced": true,
+      "path": "select/03_Highest_Mountain_DJ_Sammy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sold To The Highest Bidder",
+      "artist": "The Electric Prunes",
+      "has_synced": true,
+      "path": "select/04_Sold_To_The_Highest_Bidder_The_Electric_Prunes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Highest High",
+      "artist": "China Crisis",
+      "has_synced": true,
+      "path": "select/05_The_Highest_High_China_Crisis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Highest Star",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/06_Highest_Star_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Highest Ideal",
+      "artist": "Unleashed",
+      "has_synced": true,
+      "path": "select/07_The_Highest_Ideal_Unleashed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX",
+      "artist": "Travis Scott feat. ROSALÍA & Lil Baby",
+      "has_synced": true,
+      "path": "select/08_HIGHEST_IN_THE_ROOM_(feat._ROSALÍA_&_Lil_Baby)_-_REMIX_Travis_Scott_feat._ROSALÍA_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HIGHEST IN THE ROOM (REMIX) (feat. ROSALÍA & Lil Baby)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/09_HIGHEST_IN_THE_ROOM_(REMIX)_(feat._ROSALÍA_&_Lil_Baby)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Highest Tree",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/10_Highest_Tree_Sugar_Ray.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flyest Highest Coolest Smoothest",
+      "artist": "Key Glock",
+      "has_synced": true,
+      "path": "select/11_Flyest_Highest_Coolest_Smoothest_Key_Glock.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Highest Mountain",
+      "artist": "Fools Garden",
+      "has_synced": false,
+      "path": "select/12_Highest_Mountain_Fools_Garden.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sold To The Highest Buddha",
+      "artist": "Gong",
+      "has_synced": true,
+      "path": "select/13_Sold_To_The_Highest_Buddha_Gong.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Highest Trails Above",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/14_Highest_Trails_Above_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HIGHEST IN THE ROOM",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/15_HIGHEST_IN_THE_ROOM_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "HIGHEST IN THE ROOM (REMIX)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/16_HIGHEST_IN_THE_ROOM_(REMIX)_Travis_Scott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIGHEST",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/pl_01_HIGHEST_OxT.txt"
+    }
+  ]
+}
